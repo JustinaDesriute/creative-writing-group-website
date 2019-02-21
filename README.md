@@ -1,4 +1,4 @@
-Women TechMakers Frankfurt website 
+Creative Writing Group Frankfurt website 
 
 clone the repo
 ```npm i```
